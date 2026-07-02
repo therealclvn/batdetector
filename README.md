@@ -1,6 +1,6 @@
 # Bat Model 3
 
-熱影像蝙蝠偵測、追蹤、軌跡繪製與 Excel 報表輸出。
+Thermal bat detection, tracking, trajectory visualization, and Excel report export.
 
 ## 目錄
 
