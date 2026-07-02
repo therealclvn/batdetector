@@ -2,17 +2,17 @@
 
 Thermal bat detection, tracking, trajectory visualization, and Excel report export.
 
-## 目錄
+## Directory Layout
 
 ```text
-models/             目前使用的模型
-models/archive/     舊模型
-videos/             目前分析的影片
-videos/archive/     其他或舊影片
-data/               訓練與標註資料
-outputs/previews/   正式預覽圖片與影片
-outputs/reports/    正式 Excel 報表
-docs/               研究與設計文件
+models/             Current model files
+models/archive/     Archived model files
+videos/             Videos currently being analyzed
+videos/archive/     Other or archived videos
+data/               Training and annotation data
+outputs/previews/   Generated preview images and videos
+outputs/reports/    Generated Excel reports
+docs/               Research and design documents
 ```
 
 ## 執行
