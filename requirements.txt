@@ -1,0 +1,7 @@
+filterpy==1.4.5
+numpy==1.26.4
+opencv-python==4.11.0.86
+scipy==1.17.1
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.4.35
